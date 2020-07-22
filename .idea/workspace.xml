@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1e8a525-4ad3-46b3-97eb-1059781d7599" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="inc_config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/inc_config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="history.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/template/ffsm/history.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ctl_ffsm_h5_index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/control/ctl_ffsm_h5_index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="2682" column="51" lean-forward="false" selection-start-line="2682" selection-start-column="51" selection-end-line="2682" selection-end-column="51" />
+              <folding>
+                <marker date="1595399476761" expanded="true" signature="5958:6063" ph="UPDATE `ffsm... " />
+                <marker date="1595399476761" expanded="true" signature="6160:6314" ph="UPDATE `user... " />
+                <marker date="1595399476761" expanded="true" signature="6366:6417" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="6553:6702" ph="UPDATE `user... " />
+                <marker date="1595399476761" expanded="true" signature="6842:6902" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="7047:7199" ph="UPDATE `user... " />
+                <marker date="1595399476761" expanded="true" signature="7602:7669" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="8560:8608" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="8873:8921" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="11469:11548" ph="select * fro... sm_rgnm" />
+                <marker date="1595399476761" expanded="true" signature="11593:11725" ph="select * fro... sm_smtf" />
+                <marker date="1595399476761" expanded="true" signature="13610:13658" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="13919:13967" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="15817:15866" ph="select * fro... sm_shouji" />
+                <marker date="1595399476761" expanded="true" signature="16892:17061" ph="select * fro... sm_shouji" />
+                <marker date="1595399476761" expanded="true" signature="18478:18534" ph="UPDATE `ffsm... " />
+                <marker date="1595399476761" expanded="true" signature="18886:18923" ph="select * fro... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="19958:20006" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="23537:23758" ph="SELECT * FRO... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="23859:23978" ph="SELECT * FRO... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="24060:24177" ph="SELECT * FRO... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="24403:24512" ph="SELECT * FRO... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="24559:24670" ph="SELECT * FRO... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="24720:24933" ph="SELECT * FRO... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="25046:25127" ph="select * fro... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="28884:28932" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="29195:29247" ph="select * fro... ffsm_dsyy" />
+                <marker date="1595399476761" expanded="true" signature="32192:32271" ph="select * fro... sm_rgnm" />
+                <marker date="1595399476761" expanded="true" signature="32316:32448" ph="select * fro... sm_smtf" />
+                <marker date="1595399476761" expanded="true" signature="33264:33313" ph="select * fro... ffsm_dsyy" />
+                <marker date="1595399476761" expanded="true" signature="33512:33537" ph="select * fro... ffsm_dsyy" />
+                <marker date="1595399476761" expanded="true" signature="34248:34301" ph="SELECT * FRO... member" />
+                <marker date="1595399476761" expanded="true" signature="35611:35659" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="38571:38621" ph="SELECT * FRO... xz_orders" />
+                <marker date="1595399476761" expanded="true" signature="42675:42721" ph="select * fro... sm_81" />
+                <marker date="1595399476761" expanded="true" signature="42880:42925" ph="select * fro... sm_81" />
+                <marker date="1595399476761" expanded="true" signature="43078:43122" ph="select * fro... sm_81" />
+                <marker date="1595399476761" expanded="true" signature="43269:43314" ph="select * fro... sm_81" />
+                <marker date="1595399476761" expanded="true" signature="43467:43513" ph="select * fro... sm_81" />
+                <marker date="1595399476761" expanded="true" signature="43853:43906" ph="select * fro... sm_sancai" />
+                <marker date="1595399476761" expanded="true" signature="45352:45404" ph="select * fro... baijia_xing" />
+                <marker date="1595399476761" expanded="true" signature="45537:45586" ph="select * fro... baijia_xing" />
+                <marker date="1595399476761" expanded="true" signature="47017:47044" ph="select * fro... baijia_xing" />
+                <marker date="1595399476761" expanded="true" signature="47554:47600" ph="select count... baijia_ming" />
+                <marker date="1595399476761" expanded="true" signature="48034:48136" ph="select * fro... baijia_ming" />
+                <marker date="1595399476761" expanded="true" signature="49020:49068" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="49333:49381" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="51942:52021" ph="select * fro... sm_rgnm" />
+                <marker date="1595399476761" expanded="true" signature="52066:52198" ph="select * fro... sm_smtf" />
+                <marker date="1595399476761" expanded="true" signature="53862:53910" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="54175:54223" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="57368:57416" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="57681:57729" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="60298:60377" ph="select * fro... sm_rgnm" />
+                <marker date="1595399476761" expanded="true" signature="60422:60554" ph="select * fro... sm_smtf" />
+                <marker date="1595399476761" expanded="true" signature="61893:61941" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="62206:62254" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="64812:64891" ph="select * fro... sm_rgnm" />
+                <marker date="1595399476761" expanded="true" signature="64936:65068" ph="select * fro... sm_smtf" />
+                <marker date="1595399476761" expanded="true" signature="66735:66783" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="66995:67047" ph="select * fro... baijia_xing" />
+                <marker date="1595399476761" expanded="true" signature="67414:67462" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="70018:70097" ph="select * fro... sm_rgnm" />
+                <marker date="1595399476761" expanded="true" signature="70142:70274" ph="select * fro... sm_smtf" />
+                <marker date="1595399476761" expanded="true" signature="71253:71305" ph="select * fro... baijia_xing" />
+                <marker date="1595399476761" expanded="true" signature="72497:72524" ph="select * fro... baijia_xing" />
+                <marker date="1595399476761" expanded="true" signature="75234:75280" ph="select * fro... sm_81" />
+                <marker date="1595399476761" expanded="true" signature="75439:75484" ph="select * fro... sm_81" />
+                <marker date="1595399476761" expanded="true" signature="75637:75681" ph="select * fro... sm_81" />
+                <marker date="1595399476761" expanded="true" signature="75828:75873" ph="select * fro... sm_81" />
+                <marker date="1595399476761" expanded="true" signature="76026:76072" ph="select * fro... sm_81" />
+                <marker date="1595399476761" expanded="true" signature="76412:76465" ph="select * fro... sm_sancai" />
+                <marker date="1595399476761" expanded="true" signature="78685:78733" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="79011:79059" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="81629:81708" ph="select * fro... sm_rgnm" />
+                <marker date="1595399476761" expanded="true" signature="81753:81885" ph="select * fro... sm_smtf" />
+                <marker date="1595399476761" expanded="true" signature="85346:85398" ph="select * fro... sm_company" />
+                <marker date="1595399476761" expanded="true" signature="86280:86328" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="86593:86641" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="89790:89838" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="90103:90151" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="92737:92816" ph="select * fro... sm_rgnm" />
+                <marker date="1595399476761" expanded="true" signature="92861:92993" ph="select * fro... sm_smtf" />
+                <marker date="1595399476761" expanded="true" signature="94701:94749" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="95010:95058" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="97891:97939" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="98200:98248" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="100684:100763" ph="select * fro... sm_rgnm" />
+                <marker date="1595399476761" expanded="true" signature="100808:100940" ph="select * fro... sm_smtf" />
+                <marker date="1595399476761" expanded="true" signature="102031:102079" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="102270:102318" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="105252:105300" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="105565:105613" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="108172:108251" ph="select * fro... sm_rgnm" />
+                <marker date="1595399476761" expanded="true" signature="108296:108428" ph="select * fro... sm_smtf" />
+                <marker date="1595399476761" expanded="true" signature="109794:109848" ph="select * fro... sm_wh" />
+                <marker date="1595399476761" expanded="true" signature="109914:109996" ph="select * fro... sm_jiazi" />
+                <marker date="1595399476761" expanded="true" signature="110051:110133" ph="select * fro... sm_jiazi" />
+                <marker date="1595399476761" expanded="true" signature="110189:110271" ph="select * fro... sm_jiazi" />
+                <marker date="1595399476761" expanded="true" signature="110327:110409" ph="select * fro... sm_jiazi" />
+                <marker date="1595399476761" expanded="true" signature="110479:110532" ph="select * fro... sm_sxgx" />
+                <marker date="1595399476761" expanded="true" signature="113336:113384" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="113649:113697" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="116902:116950" ph="SELECT * FRO... system" />
+                <marker date="1595399476761" expanded="true" signature="117141:117189" ph="SELECT * FRO... users" />
+                <marker date="1595399476761" expanded="true" signature="124075:124142" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="129371:129438" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="129503:129592" ph="SELECT * FRO... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="129625:129702" ph="SELECT count... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="131618:131685" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="131750:131962" ph="SELECT *,sum... ffsm_dl_fxjf" />
+                <marker date="1595399476761" expanded="true" signature="131995:132095" ph="select count... ffsm_dl_fxjf" />
+                <marker date="1595399476761" expanded="true" signature="133128:133195" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="133259:133474" ph="SELECT *,sum... ffsm_dl_fxjf" />
+                <marker date="1595399476761" expanded="true" signature="133507:133608" ph="select count... ffsm_dl_fxjf" />
+                <marker date="1595399476761" expanded="true" signature="134640:134707" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="135384:135477" ph="update `user... " />
+                <marker date="1595399476761" expanded="true" signature="135912:136000" ph="SELECT * FRO... ffsm_dl_txzh" />
+                <marker date="1595399476761" expanded="true" signature="136609:136676" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="136741:136829" ph="SELECT * FRO... ffsm_dl_txzh" />
+                <marker date="1595399476761" expanded="true" signature="136862:136940" ph="SELECT count... ffsm_dl_txzh" />
+                <marker date="1595399476761" expanded="true" signature="137937:138004" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="138103:138229" ph="UPDATE `user... " />
+                <marker date="1595399476761" expanded="true" signature="138777:138844" ph="select * fro... users" />
+                <marker date="1595399476761" expanded="true" signature="138909:139002" ph="SELECT * FRO... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="139035:139116" ph="SELECT count... ffsm_orders" />
+                <marker date="1595399476761" expanded="true" signature="140889:140961" ph="select count... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hehun_order.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/template/ffsm/hehun_order.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="275" column="12" lean-forward="true" selection-start-line="275" selection-start-column="12" selection-end-line="275" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>his</find>
+      <find>histor</find>
+      <find>history</find>
+      <find>未付款</find>
+      <find>select</find>
+      <find>select_</find>
+      <find>select_o</find>
+      <find>select_or</find>
+      <find>select_ord</find>
+      <find>select_orde</find>
+      <find>select_order</find>
+      <find>select_orders.tp</find>
+      <find>select_orders.t</find>
+      <find>select_orders.</find>
+      <find>select_orders</find>
+      <find>下单时间</find>
+      <find>AJ</find>
+      <find>A</find>
+      <find>Ajax</find>
+      <find>s</find>
+      <find>sh</find>
+      <find>show</find>
+      <find>showti</find>
+      <find>showtim</find>
+      <find>showtime</find>
+      <find>showtime=</find>
+      <find>帮助他们找到美满恋爱婚姻</find>
+      <find>将为您解锁其余八项重要内容</find>
+      <find>select_orders.tpl</find>
+      <find>.js</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>奇云</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\phpstudy2018\PHPTutorial\WWW\59ky\templates\template\admin</dir>
+      <dir>D:\phpstudy2018\PHPTutorial\WWW\59ky开运网付费测算框架通用管理后台</dir>
+      <dir>D:\phpstudy2018\PHPTutorial\WWW\59ky\control</dir>
+      <dir>D:\phpstudy2018\PHPTutorial\WWW\59ky</dir>
+      <dir>D:\phpstudy2018\PHPTutorial\WWW\59ky\templates\template\ffsm</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/tpl.php" />
+        <option value="$PROJECT_DIR$/control/ctl_index.php" />
+        <option value="$PROJECT_DIR$/model/mod_topic.php" />
+        <option value="$PROJECT_DIR$/model/mod_index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/templates/template/ffsm/hehun.tpl" />
+        <option value="$PROJECT_DIR$/404.htm" />
+        <option value="$PROJECT_DIR$/templates/template/ffsm/index.tpl" />
+        <option value="$PROJECT_DIR$/数据库及教程/教程.txt" />
+        <option value="$PROJECT_DIR$/templates/template/ffsm/yinyuancs.tpl" />
+        <option value="$PROJECT_DIR$/templates/compile/%%02^028^028BC6B9%%bzyy.tpl.php" />
+        <option value="$PROJECT_DIR$/config/inc_config.php" />
+        <option value="$PROJECT_DIR$/templates/template/admin/index.tpl" />
+        <option value="$PROJECT_DIR$/templates/template/admin/login.tpl" />
+        <option value="$PROJECT_DIR$/templates/template/ffsm/user_about.tpl" />
+        <option value="$PROJECT_DIR$/core/login.php" />
+        <option value="$PROJECT_DIR$/core/init.php" />
+        <option value="$PROJECT_DIR$/templates/template/ffsm/userlogin.tpl" />
+        <option value="$PROJECT_DIR$/templates/template/ffsm/select_orders.tpl" />
+        <option value="$PROJECT_DIR$/templates/template/ffsm/history.tpl" />
+        <option value="$PROJECT_DIR$/model/mod_order.php" />
+        <option value="$PROJECT_DIR$/control/ctl_ffsm_h5_index.php" />
+        <option value="$PROJECT_DIR$/templates/template/ffsm/hehun_order.tpl" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="数据库及教程" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ffsm" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="59ky" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="control" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy2018\PHPTutorial\WWW\59ky\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1e8a525-4ad3-46b3-97eb-1059781d7599" name="Default" comment="" />
+      <created>1595315871532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595315871532</updated>
+      <workItem from="1595315873355" duration="13574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13574000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20347957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/template/admin/commend_data.index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1479">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/admin/baijiaxing.edit.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/statics/ffsm/bazijp/wap.min-v=0817.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/1weixin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/statics/ffsm/bazicy/1/bazicy.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1632">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/compile/%%81^812^8126EBA1%%bazi.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/mod_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <marker date="1595317653330" expanded="true" signature="1412:1492" ph="SELECT title... news_data" />
+            <marker date="1595317653330" expanded="true" signature="2440:2510" ph="SELECT title... ${$db_base}" />
+            <marker date="1595317653330" expanded="true" signature="3169:3227" ph="select * fro... ${$db_base}" />
+            <marker date="1595317653330" expanded="true" signature="3504:3552" ph="select * fro... links" />
+            <marker date="1595317653330" expanded="true" signature="4135:4228" ph="select tid,i... news_data" />
+            <marker date="1595317653330" expanded="true" signature="4397:4482" ph="select tid,i... news_data" />
+            <marker date="1595317653330" expanded="true" signature="5519:5598" ph="select `extr... sm_class" />
+            <marker date="1595317653330" expanded="true" signature="5860:5952" ph="select `extr... sm_class" />
+            <marker date="1595317653330" expanded="true" signature="6248:6344" ph="select `extr... sm_class" />
+            <marker date="1595317653330" expanded="true" signature="6586:6642" ph="select `tid`... zgjm_data" />
+            <marker date="1595317653330" expanded="true" signature="6817:6873" ph="select `tid`... news_data" />
+            <marker date="1595317653330" expanded="true" signature="7291:7367" ph="select `extr... sm_class" />
+            <marker date="1595317653330" expanded="true" signature="7516:7611" ph="select `extr... sm_class" />
+            <marker date="1595317653330" expanded="true" signature="8387:8433" ph="select * fro... sm_class" />
+            <marker date="1595317653330" expanded="true" signature="9584:9777" ph="select zt_id... zhuanti" />
+            <marker date="1595317653330" expanded="true" signature="9887:10143" ph="SELECT zt_id... zhuanti_detail" />
+            <marker date="1595317653330" expanded="true" signature="10589:10644" ph="select tpl_f... zhuanti_template" />
+            <marker date="1595317653330" expanded="true" signature="11158:11260" ph="select id,ti... xingzuo_data" />
+            <marker date="1595317653330" expanded="true" signature="11955:12096" ph="select zt_id... zhuanti" />
+            <marker date="1595317653330" expanded="true" signature="12265:12376" ph="select zt_id... zhuanti" />
+            <marker date="1595317653330" expanded="true" signature="12912:13012" ph="select zt_id... zhuanti" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/hehun.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-617">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiaozhuan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/statics/ffsm/index/huangli.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/payment/Wxpay_gz/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库及教程/教程.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/yinyuancs.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="225" column="15" lean-forward="false" selection-start-line="225" selection-start-column="15" selection-end-line="225" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/compile/%%02^028^028BC6B9%%bzyy.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/mod_api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1579412704001" expanded="true" signature="1843:1889" ph="select * fro... page_data" />
+            <marker date="1579412704001" expanded="true" signature="2014:2070" ph="select * fro... xingzuo_yunshi_data" />
+            <marker date="1579412704001" expanded="true" signature="2387:2445" ph="select * fro... shengxiao_xingge_data" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/mod_ffsm_baziwx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1579412704001" expanded="true" signature="916:986" ph="select * fro... ffsm_xz_xg_cy_aq_jk_sy" />
+            <marker date="1579412704001" expanded="true" signature="2625:2640" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="2670:2685" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="2842:2857" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="2893:2908" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="2937:2952" ph="..." />
+            <marker date="1579412704001" expanded="true" signature="3120:3135" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="3165:3180" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="3295:3310" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="3385:3400" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="3474:3489" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="3524:3539" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="3568:3583" ph="..." />
+            <marker date="1579412704001" expanded="true" signature="3739:3754" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="3784:3799" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="3902:3917" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="3946:3961" ph="..." />
+            <marker date="1579412704001" expanded="true" signature="4118:4133" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="4163:4178" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="4269:4284" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="4387:4402" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="4465:4480" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="4515:4530" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="4560:4575" ph="..." />
+            <marker date="1579412704001" expanded="true" signature="4740:4755" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="4785:4800" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="4901:4916" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="5084:5099" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="5189:5204" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="5277:5292" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="5323:5338" ph="..." />
+            <marker date="1579412704001" expanded="false" signature="5367:5382" ph="..." />
+            <marker date="1579412704001" expanded="true" signature="7028:7072" ph="select * fro... ffsm_xz_m" />
+            <marker date="1579412704001" expanded="true" signature="7626:7680" ph="select * fro... sm_wh" />
+            <marker date="1579412704001" expanded="true" signature="7749:7831" ph="select * fro... sm_jiazi" />
+            <marker date="1579412704001" expanded="true" signature="7886:7968" ph="select * fro... sm_jiazi" />
+            <marker date="1579412704001" expanded="true" signature="8024:8106" ph="select * fro... sm_jiazi" />
+            <marker date="1579412704001" expanded="true" signature="8162:8244" ph="select * fro... sm_jiazi" />
+            <marker date="1579412704001" expanded="true" signature="8316:8369" ph="select * fro... sm_sxgx" />
+            <marker date="1579412704001" expanded="true" signature="17254:17303" ph="select * fro... ffsm_whjk" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/2019/css/wsx6.cn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1595322382180" expanded="true" signature="380:404" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acs/images/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/admin/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="330" column="27" lean-forward="false" selection-start-line="330" selection-start-column="27" selection-end-line="330" selection-end-column="27" />
+          <folding>
+            <marker date="1579412704001" expanded="true" signature="16121:16142" ph="UPDATE `${{$... " />
+            <marker date="1579412704001" expanded="true" signature="17727:17829" ph="INSERT INTO `${{$table}}`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/user_tgjl.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/user_footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/user_about.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="41" column="179" lean-forward="false" selection-start-line="41" selection-start-column="179" selection-end-line="41" selection-end-column="179" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/about.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <marker date="1595321315256" expanded="true" signature="1554:1623" ph="..." />
+            <marker date="1595321315256" expanded="true" signature="1635:1651" ph="..." />
+            <marker date="1595321315256" expanded="true" signature="1681:1724" ph="..." />
+            <marker date="1595321315256" expanded="true" signature="1755:1817" ph="..." />
+            <marker date="1595321315256" expanded="true" signature="1829:1866" ph="..." />
+            <marker date="1595321315256" expanded="true" signature="1878:2059" ph="..." />
+            <marker date="1595321315256" expanded="true" signature="2110:2199" ph="..." />
+            <marker date="1595321315256" expanded="true" signature="2211:2392" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/basic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="92" column="9" lean-forward="false" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/admin/login.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="85" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/phpMyAdmin/js/pmd/history.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="224" column="25" lean-forward="false" selection-start-line="224" selection-start-column="25" selection-end-line="224" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/userlogin.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="76" column="4" lean-forward="false" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+          <folding>
+            <marker date="1595384852321" expanded="false" signature="2683:2774" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="879">
+          <caret line="85" column="3" lean-forward="false" selection-start-line="85" selection-start-column="3" selection-end-line="85" selection-end-column="3" />
+          <folding>
+            <marker date="1595383862083" expanded="true" signature="871:926" ph="select * fro... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="222" column="0" lean-forward="false" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
+          <folding>
+            <marker date="1595384731692" expanded="true" signature="843:865" ph="SELECT * FRO... system" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="31" lean-forward="false" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/payment/alipay_pc/aop/request/AlipayAcquireCreateandpayRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/dl_ck.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/select_orders.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/inc_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/mod_order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <marker date="1579412704001" expanded="true" signature="247:285" ph="select * fro... ffsm_orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/history.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/ctl_ffsm_h5_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="2682" column="51" lean-forward="false" selection-start-line="2682" selection-start-column="51" selection-end-line="2682" selection-end-column="51" />
+          <folding>
+            <marker date="1595399476761" expanded="true" signature="5958:6063" ph="UPDATE `ffsm... " />
+            <marker date="1595399476761" expanded="true" signature="6160:6314" ph="UPDATE `user... " />
+            <marker date="1595399476761" expanded="true" signature="6366:6417" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="6553:6702" ph="UPDATE `user... " />
+            <marker date="1595399476761" expanded="true" signature="6842:6902" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="7047:7199" ph="UPDATE `user... " />
+            <marker date="1595399476761" expanded="true" signature="7602:7669" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="8560:8608" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="8873:8921" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="11469:11548" ph="select * fro... sm_rgnm" />
+            <marker date="1595399476761" expanded="true" signature="11593:11725" ph="select * fro... sm_smtf" />
+            <marker date="1595399476761" expanded="true" signature="13610:13658" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="13919:13967" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="15817:15866" ph="select * fro... sm_shouji" />
+            <marker date="1595399476761" expanded="true" signature="16892:17061" ph="select * fro... sm_shouji" />
+            <marker date="1595399476761" expanded="true" signature="18478:18534" ph="UPDATE `ffsm... " />
+            <marker date="1595399476761" expanded="true" signature="18886:18923" ph="select * fro... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="19958:20006" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="23537:23758" ph="SELECT * FRO... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="23859:23978" ph="SELECT * FRO... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="24060:24177" ph="SELECT * FRO... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="24403:24512" ph="SELECT * FRO... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="24559:24670" ph="SELECT * FRO... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="24720:24933" ph="SELECT * FRO... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="25046:25127" ph="select * fro... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="28884:28932" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="29195:29247" ph="select * fro... ffsm_dsyy" />
+            <marker date="1595399476761" expanded="true" signature="32192:32271" ph="select * fro... sm_rgnm" />
+            <marker date="1595399476761" expanded="true" signature="32316:32448" ph="select * fro... sm_smtf" />
+            <marker date="1595399476761" expanded="true" signature="33264:33313" ph="select * fro... ffsm_dsyy" />
+            <marker date="1595399476761" expanded="true" signature="33512:33537" ph="select * fro... ffsm_dsyy" />
+            <marker date="1595399476761" expanded="true" signature="34248:34301" ph="SELECT * FRO... member" />
+            <marker date="1595399476761" expanded="true" signature="35611:35659" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="38571:38621" ph="SELECT * FRO... xz_orders" />
+            <marker date="1595399476761" expanded="true" signature="42675:42721" ph="select * fro... sm_81" />
+            <marker date="1595399476761" expanded="true" signature="42880:42925" ph="select * fro... sm_81" />
+            <marker date="1595399476761" expanded="true" signature="43078:43122" ph="select * fro... sm_81" />
+            <marker date="1595399476761" expanded="true" signature="43269:43314" ph="select * fro... sm_81" />
+            <marker date="1595399476761" expanded="true" signature="43467:43513" ph="select * fro... sm_81" />
+            <marker date="1595399476761" expanded="true" signature="43853:43906" ph="select * fro... sm_sancai" />
+            <marker date="1595399476761" expanded="true" signature="45352:45404" ph="select * fro... baijia_xing" />
+            <marker date="1595399476761" expanded="true" signature="45537:45586" ph="select * fro... baijia_xing" />
+            <marker date="1595399476761" expanded="true" signature="47017:47044" ph="select * fro... baijia_xing" />
+            <marker date="1595399476761" expanded="true" signature="47554:47600" ph="select count... baijia_ming" />
+            <marker date="1595399476761" expanded="true" signature="48034:48136" ph="select * fro... baijia_ming" />
+            <marker date="1595399476761" expanded="true" signature="49020:49068" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="49333:49381" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="51942:52021" ph="select * fro... sm_rgnm" />
+            <marker date="1595399476761" expanded="true" signature="52066:52198" ph="select * fro... sm_smtf" />
+            <marker date="1595399476761" expanded="true" signature="53862:53910" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="54175:54223" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="57368:57416" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="57681:57729" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="60298:60377" ph="select * fro... sm_rgnm" />
+            <marker date="1595399476761" expanded="true" signature="60422:60554" ph="select * fro... sm_smtf" />
+            <marker date="1595399476761" expanded="true" signature="61893:61941" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="62206:62254" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="64812:64891" ph="select * fro... sm_rgnm" />
+            <marker date="1595399476761" expanded="true" signature="64936:65068" ph="select * fro... sm_smtf" />
+            <marker date="1595399476761" expanded="true" signature="66735:66783" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="66995:67047" ph="select * fro... baijia_xing" />
+            <marker date="1595399476761" expanded="true" signature="67414:67462" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="70018:70097" ph="select * fro... sm_rgnm" />
+            <marker date="1595399476761" expanded="true" signature="70142:70274" ph="select * fro... sm_smtf" />
+            <marker date="1595399476761" expanded="true" signature="71253:71305" ph="select * fro... baijia_xing" />
+            <marker date="1595399476761" expanded="true" signature="72497:72524" ph="select * fro... baijia_xing" />
+            <marker date="1595399476761" expanded="true" signature="75234:75280" ph="select * fro... sm_81" />
+            <marker date="1595399476761" expanded="true" signature="75439:75484" ph="select * fro... sm_81" />
+            <marker date="1595399476761" expanded="true" signature="75637:75681" ph="select * fro... sm_81" />
+            <marker date="1595399476761" expanded="true" signature="75828:75873" ph="select * fro... sm_81" />
+            <marker date="1595399476761" expanded="true" signature="76026:76072" ph="select * fro... sm_81" />
+            <marker date="1595399476761" expanded="true" signature="76412:76465" ph="select * fro... sm_sancai" />
+            <marker date="1595399476761" expanded="true" signature="78685:78733" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="79011:79059" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="81629:81708" ph="select * fro... sm_rgnm" />
+            <marker date="1595399476761" expanded="true" signature="81753:81885" ph="select * fro... sm_smtf" />
+            <marker date="1595399476761" expanded="true" signature="85346:85398" ph="select * fro... sm_company" />
+            <marker date="1595399476761" expanded="true" signature="86280:86328" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="86593:86641" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="89790:89838" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="90103:90151" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="92737:92816" ph="select * fro... sm_rgnm" />
+            <marker date="1595399476761" expanded="true" signature="92861:92993" ph="select * fro... sm_smtf" />
+            <marker date="1595399476761" expanded="true" signature="94701:94749" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="95010:95058" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="97891:97939" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="98200:98248" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="100684:100763" ph="select * fro... sm_rgnm" />
+            <marker date="1595399476761" expanded="true" signature="100808:100940" ph="select * fro... sm_smtf" />
+            <marker date="1595399476761" expanded="true" signature="102031:102079" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="102270:102318" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="105252:105300" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="105565:105613" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="108172:108251" ph="select * fro... sm_rgnm" />
+            <marker date="1595399476761" expanded="true" signature="108296:108428" ph="select * fro... sm_smtf" />
+            <marker date="1595399476761" expanded="true" signature="109794:109848" ph="select * fro... sm_wh" />
+            <marker date="1595399476761" expanded="true" signature="109914:109996" ph="select * fro... sm_jiazi" />
+            <marker date="1595399476761" expanded="true" signature="110051:110133" ph="select * fro... sm_jiazi" />
+            <marker date="1595399476761" expanded="true" signature="110189:110271" ph="select * fro... sm_jiazi" />
+            <marker date="1595399476761" expanded="true" signature="110327:110409" ph="select * fro... sm_jiazi" />
+            <marker date="1595399476761" expanded="true" signature="110479:110532" ph="select * fro... sm_sxgx" />
+            <marker date="1595399476761" expanded="true" signature="113336:113384" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="113649:113697" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="116902:116950" ph="SELECT * FRO... system" />
+            <marker date="1595399476761" expanded="true" signature="117141:117189" ph="SELECT * FRO... users" />
+            <marker date="1595399476761" expanded="true" signature="124075:124142" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="129371:129438" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="129503:129592" ph="SELECT * FRO... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="129625:129702" ph="SELECT count... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="131618:131685" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="131750:131962" ph="SELECT *,sum... ffsm_dl_fxjf" />
+            <marker date="1595399476761" expanded="true" signature="131995:132095" ph="select count... ffsm_dl_fxjf" />
+            <marker date="1595399476761" expanded="true" signature="133128:133195" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="133259:133474" ph="SELECT *,sum... ffsm_dl_fxjf" />
+            <marker date="1595399476761" expanded="true" signature="133507:133608" ph="select count... ffsm_dl_fxjf" />
+            <marker date="1595399476761" expanded="true" signature="134640:134707" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="135384:135477" ph="update `user... " />
+            <marker date="1595399476761" expanded="true" signature="135912:136000" ph="SELECT * FRO... ffsm_dl_txzh" />
+            <marker date="1595399476761" expanded="true" signature="136609:136676" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="136741:136829" ph="SELECT * FRO... ffsm_dl_txzh" />
+            <marker date="1595399476761" expanded="true" signature="136862:136940" ph="SELECT count... ffsm_dl_txzh" />
+            <marker date="1595399476761" expanded="true" signature="137937:138004" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="138103:138229" ph="UPDATE `user... " />
+            <marker date="1595399476761" expanded="true" signature="138777:138844" ph="select * fro... users" />
+            <marker date="1595399476761" expanded="true" signature="138909:139002" ph="SELECT * FRO... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="139035:139116" ph="SELECT count... ffsm_orders" />
+            <marker date="1595399476761" expanded="true" signature="140889:140961" ph="select count... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ffsm/statics/ffsm/public/js/common.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template/ffsm/hehun_order.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="275" column="12" lean-forward="true" selection-start-line="275" selection-start-column="12" selection-end-line="275" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
