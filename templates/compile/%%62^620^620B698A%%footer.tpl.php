@@ -7,49 +7,49 @@
 	<h3 class="hotcs_title">热门推荐</h3>
 		<ul class="hotcs_list">
             <a class="hotcs_item" href="/?ac=hehun" target="_blank">
-                <img src="/tu/img_1.png" class="l_img" alt="">
+                <img src="/ffsm/tu/img_1.png" class="l_img" alt="">
                 <div class="r_wrap">
                     <p class="r_deriction"><b>八字合婚</b>：看你和TA的八字合不合？关系你后半生幸福一定要看！</p>
                     <div class="r_foot"><p>35016</p><p>9.6分</p></div>
                 </div>
             </a>
             <a class="hotcs_item" href="/?ac=bazi" target="_blank">
-                <img src="/tu/img_3.png" class="l_img" alt="">
+                <img src="/ffsm/tu/img_3.png" class="l_img" alt="">
                 <div class="r_wrap">
                     <p class="r_deriction"><b>事业测算</b>：人一辈子总希望能出人头地，教你三招旺2019年事业！</p>
                     <div class="r_foot"><p>21586</p><p>9.5分</p></div>
                 </div>
             </a>
             <a class="hotcs_item" href="/?ac=bazi" target="_blank">
-                <img src="/tu/img_4.png" class="l_img" alt="">
+                <img src="/ffsm/tu/img_4.png" class="l_img" alt="">
                 <div class="r_wrap">
                     <p class="r_deriction"><b>八字财运</b>：财运十断九验，哪些人走财运？大师教你转财运！</p>
                     <div class="r_foot"><p>28776</p><p>9.3分</p></div>
                 </div>
             </a>
 			<a class="hotcs_item" href="/?ac=bzyy" target="_blank">
-                <img src="/tu/img_6.png" class="l_img" alt="">
+                <img src="/ffsm/tu/img_6.png" class="l_img" alt="">
                 <div class="r_wrap">
                     <p class="r_deriction"><b>婚姻走势</b>：婚姻是个坎！民间师傅告诉你姻缘走势，准的惊人！</p>
                     <div class="r_foot"><p>37111</p><p>9.1分</p></div>
                 </div>
             </a>
 			<a class="hotcs_item" href="/?ac=xmfx" target="_blank">
-                <img src="/tu/img_7.png" class="l_img" alt="">
+                <img src="/ffsm/img_7.png" class="l_img" alt="">
                 <div class="r_wrap">
                     <p class="r_deriction"><b>姓名测算</b>：神奇的姓名吉凶测试，解开运势密码！</p>
                     <div class="r_foot"><p>57123</p><p>9.3分</p></div>
                 </div>
             </a>
 			<a class="hotcs_item" href="/?ac=hmjx" target="_blank">
-                <img src="/tu/img_11.png" class="l_img" alt="">
+                <img src="/ffsm/tu/img_11.png" class="l_img" alt="">
                 <div class="r_wrap">
                     <p class="r_deriction"><b>号码解析</b>:手机号码大揭秘，11位数暴露了你的.....</p>
                     <div class="r_foot"><p>21699</p><p>9.5分</p></div>
                 </div>
             </a>
 			<a class="hotcs_item" href="/?ac=ffqm" target="_blank">
-                <img src="/tu/img_9.png" class="l_img" alt="">
+                <img src="/ffsm/tu/img_9.png" class="l_img" alt="">
                 <div class="r_wrap">
                     <p class="r_deriction"><b>宝宝起名</b>：给孩子起名需要注意的，不要亲手毁掉他的一生！</p>
                     <div class="r_foot"><p>56688</p><p>9.6分</p></div>
