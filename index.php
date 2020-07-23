@@ -23,7 +23,7 @@ if(preg_match('/(blackberry|configuration\/cldc|hp |hp-|htc |htc_|htc-|iemobile|
 	}
 }
 
-echo "ok1";exit;
+
 header('Content-Type: text/html; charset=utf-8');
 $page_start_time = microtime(true); //程序开始执行时间
 require './core/init.php';
