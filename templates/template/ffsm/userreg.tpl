@@ -100,7 +100,7 @@ height: 2.5rem;
 </div>
 <br><br>
 </form>
-<div class="log_connect">
+<!--div class="log_connect">
           <div class="title"><h4><span class="cg b_e">用第三方账号登录</span></h4></div>
           <div class="item">
             <ul>
@@ -108,7 +108,7 @@ height: 2.5rem;
 			  <li class="b_f"><a href="/?ac=qqconnect"><img src="/statics/user/images/qqlogin.png"></a></li>
                                         </ul>
           </div>
-        </div>
+        </div-->
 <br><br>
 </section>
 
