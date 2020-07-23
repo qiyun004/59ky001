@@ -78,7 +78,7 @@
    <li><a href="/?ac=hmjx"><img src="/statics/img/logo_14.png" alt="号码解析" /><em>号码解析</em></a></li> 
    <li><a href="/?ac=gsqm"><img src="/statics/img/logo_13.png" alt="公司起名" /><em>公司起名</em></a></li> 
    <li><a href="/?ac=aiqingyun"><img src="/statics/img/logo_9.jpg" alt="爱情运" /><em>爱情运势</em></a></li> 
-   <li><a href="https://kyw.5988vip.cn/2019/m/"><img src="/statics/img/logo_7.jpg" alt="2019生肖运程" /><em>十二生肖</em></a></li> 
+   <li><a href="https://ky.jiangyunhan.com/2019/m/"><img src="/statics/img/logo_7.jpg" alt="2019生肖运程" /><em>十二生肖</em></a></li>
    <li><a href="/?ac=xmpd"><img src="/statics/img/logo_8.jpg" alt="姓名配对" /><em>姓名配对</em></a></li> 
    <li><a href="/?ac=xmfx"><img src="/statics/img/logo_15.png" alt="姓名详批" /><em>姓名详批</em></a></li> 
    <li><a href="/?ac=hehun"><img src="/statics/img/logo_11.png" alt="八字合婚" /><em>八字合婚</em></a></li> 
