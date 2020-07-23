@@ -94,6 +94,7 @@ $GLOBALS['config']['cookie_pwd'] = '&uop_Ysd@erw!tr';
 //默认上传目录
 $GLOBALS['config']['upload_dir'] = '/static/uploads';
 
+
 //微博API APPKEY
 $GLOBALS['config']['WB_AKEY'] = '870395067';
 //微博API SECRETKEY
