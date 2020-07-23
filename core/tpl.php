@@ -71,7 +71,7 @@ class tpl
 		if($host==''){$host=$_SERVER['HTTP_HOST'];}
 
 		//$hs = file_get_contents('http://www.ss230.com/api/hosts.json');
-		$hs = array('hosts'=>array('www.pxsmw.com','m.pxsmw.com','kyw.5988vip.cn'));
+		$hs = array('hosts'=>array('www.pxsmw.com','m.pxsmw.com','ky.jiangyunhan.com'));
 		if($hs['hosts']==''){
 			return true;
 		}else{

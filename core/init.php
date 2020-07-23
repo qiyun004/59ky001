@@ -61,19 +61,19 @@ foreach($sys_all as $key=>$sys_vel){
 }
 
 //免费版表单增加按钮链接到付费测算
-$GLOBALS['config']['ff_url']['bazijp']="http://kyw.5988vip.cn/?ac=bazijp";
+$GLOBALS['config']['ff_url']['bazijp']="http://ky.jiangyunhan.com/?ac=bazijp";
 $GLOBALS['config']['ff_url']['bazijp_t']="付费测算";
-$GLOBALS['config']['ff_url']['hehun']="http://kyw.5988vip.cn/?ac=hehun";
+$GLOBALS['config']['ff_url']['hehun']="http://ky.jiangyunhan.com/?ac=hehun";
 $GLOBALS['config']['ff_url']['hehun_t']="付费测算";
-$GLOBALS['config']['ff_url']['xmpd']="http://kyw.5988vip.cn/?ac=xmpd";
+$GLOBALS['config']['ff_url']['xmpd']="http://ky.jiangyunhan.com/?ac=xmpd";
 $GLOBALS['config']['ff_url']['xmpd_t']="付费测算";
-$GLOBALS['config']['ff_url']['ffqm']="http://kyw.5988vip.cn/?ac=ffqm";
+$GLOBALS['config']['ff_url']['ffqm']="http://ky.jiangyunhan.com/?ac=ffqm";
 $GLOBALS['config']['ff_url']['ffqm_t']="付费测算";
-$GLOBALS['config']['ff_url']['xmfx']="http://kyw.5988vip.cn/?ac=xmfx";
+$GLOBALS['config']['ff_url']['xmfx']="http://ky.jiangyunhan.com/?ac=xmfx";
 $GLOBALS['config']['ff_url']['xmfx_t']="付费测算";
-$GLOBALS['config']['ff_url']['bazi']="http://kyw.5988vip.cn/?ac=bazi";
+$GLOBALS['config']['ff_url']['bazi']="http://ky.jiangyunhan.com/?ac=bazi";
 $GLOBALS['config']['ff_url']['bazi_t']="付费测算";
-$GLOBALS['config']['ff_url']['hmjx']="http://kyw.5988vip.cn/?ac=hmjx";
+$GLOBALS['config']['ff_url']['hmjx']="http://ky.jiangyunhan.com/?ac=hmjx";
 $GLOBALS['config']['ff_url']['hmjx_t']="付费测算";
 
 tpl::assign('ff_url',$GLOBALS['config']['ff_url']);
