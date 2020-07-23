@@ -35,7 +35,7 @@
                 </div>
             </a>
 			<a class="hotcs_item" href="/?ac=xmfx" target="_blank">
-                <img src="/ffsm/img_7.png" class="l_img" alt="">
+                <img src="/ffsm/tu/img_7.png" class="l_img" alt="">
                 <div class="r_wrap">
                     <p class="r_deriction"><b>姓名测算</b>：神奇的姓名吉凶测试，解开运势密码！</p>
                     <div class="r_foot"><p>57123</p><p>9.3分</p></div>
