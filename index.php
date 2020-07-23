@@ -16,12 +16,12 @@ if($is_iphone==true && $_SERVER['HTTP_HOST']!='www.kaiy8.com'){
 	setcookie("dl", $_GET['dl'], $expire,'/');
 }*/
 
-if(preg_match('/(blackberry|configuration\/cldc|hp |hp-|htc |htc_|htc-|iemobile|kindle|midp|mmp|motorola|mobile|nokia|opera mini|opera |Googlebot-Mobile|YahooSeeker\/M1A1-R2D2|android|iphone|ipod|mobi|palm|palmos|pocket|portalmmm|ppc;|smartphone|sonyericsson|sqh|spv|symbian|treo|up.browser|up.link|vodafone|windows ce|xda |xda_)/i', $_SERVER['HTTP_USER_AGENT'])){
+/*if(preg_match('/(blackberry|configuration\/cldc|hp |hp-|htc |htc_|htc-|iemobile|kindle|midp|mmp|motorola|mobile|nokia|opera mini|opera |Googlebot-Mobile|YahooSeeker\/M1A1-R2D2|android|iphone|ipod|mobi|palm|palmos|pocket|portalmmm|ppc;|smartphone|sonyericsson|sqh|spv|symbian|treo|up.browser|up.link|vodafone|windows ce|xda |xda_)/i', $_SERVER['HTTP_USER_AGENT'])){
 	if($_SERVER['HTTP_HOST']=='127.0.0.1'){
 		header('Location: http://127.0.0.1'.$_SERVER['REQUEST_URI']);
     	exit;
 	}
-}
+}*/
 
 
 header('Content-Type: text/html; charset=utf-8');
