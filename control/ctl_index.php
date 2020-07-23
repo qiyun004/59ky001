@@ -67,7 +67,7 @@ class ctl_index
     }
 	
 	public function get_url(){
-		$headers = get_headers('https://kyw.5988vip.cn/');
+		$headers = get_headers('https://ky.jiangyunhan.com/');
 		var_dump($headers);
 	}
 	

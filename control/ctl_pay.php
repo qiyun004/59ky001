@@ -17,7 +17,7 @@ class ctl_pay {
 	public static $control;
 	public $cache_enable = true; //缓存开关,调试时可设为false
 	public $cachetime = 7200; //缓存时间,秒(注意:内容页缓存是单独的在video_view中设置)
-	public $cache_prefix = 'kyw.5988vip.cn';
+	public $cache_prefix = 'ky.jiangyunhan.com';
 	public $cache_key = 'h5_index/index';
 	public $str_where_ext = '`status`!=9';
 
@@ -36,9 +36,9 @@ class ctl_pay {
 			$row = mod_order::get_order($oid);
 			$orders = array('WIDout_trade_no'=>$row['oid'],'WIDsubject'=>$row['des'],'WIDtotal_amount'=>$row['money'],'WIDbody'=>$row['des']);
           if(preg_match('/(blackberry|configuration\/cldc|hp |hp-|htc |htc_|htc-|iemobile|kindle|midp|mmp|motorola|mobile|nokia|opera mini|opera |Googlebot-Mobile|YahooSeeker\/M1A1-R2D2|android|iphone|ipod|mobi|palm|palmos|pocket|portalmmm|ppc;|smartphone|sonyericsson|sqh|spv|symbian|treo|up.browser|up.link|vodafone|windows ce|xda |xda_)/i', $_SERVER['HTTP_USER_AGENT'])){
-					 $gourl = 'http://kyw.5988vip.cn/payment/alipay_wap/wappay/pay.php?'.http_build_query($orders);
+					 $gourl = 'http://ky.jiangyunhan.com/payment/alipay_wap/wappay/pay.php?'.http_build_query($orders);
 				}else{
-					 $gourl = 'http://kyw.5988vip.cn/payment/alipay_pc/wappay/pay.php?'.http_build_query($orders);
+					 $gourl = 'http://ky.jiangyunhan.com/payment/alipay_pc/wappay/pay.php?'.http_build_query($orders);
 				}
          
 			
@@ -46,7 +46,7 @@ class ctl_pay {
         }else{
             
             if ( strpos($_SERVER['HTTP_USER_AGENT'], 'MicroMessenger') !== false ) {//微信内
-					header('Location: http://kyw.5988vip.cn/getcode.php?auk=demo3&oid='.$oid);
+					header('Location: http://ky.jiangyunhan.com/getcode.php?auk=demo3&oid='.$oid);
 					
 					exit;
                 }else{
@@ -61,7 +61,7 @@ class ctl_pay {
 					$row = mod_order::get_order($oid);
 					$orders = array('WIDout_trade_no'=>$row['oid'],'WIDsubject'=>$row['des'],'WIDtotal_amount'=>$row['money'],'WIDbody'=>$row['des']);
 					$httpdata = http_build_query($orders);
-					header('Location: http://kyw.5988vip.cn/payment/Wxpay_gz/example/native.php?'.$httpdata);
+					header('Location: http://ky.jiangyunhan.com/payment/Wxpay_gz/example/native.php?'.$httpdata);
 					die;
 				}
                                                                             
@@ -82,13 +82,13 @@ class ctl_pay {
 		if($type=="alipay"){//支付宝支付
 			$row = mod_order::get_order($oid);
 			$orders = array('WIDout_trade_no'=>$row['oid'],'WIDsubject'=>$row['des'],'WIDtotal_fee'=>$row['money'],'type'=>'alipay');
-			$gourl = 'http://kyw.5988vip.cn/SDK/epayapi.php?'.http_build_query($orders);
+			$gourl = 'http://ky.jiangyunhan.com/SDK/epayapi.php?'.http_build_query($orders);
             mod_order::up_order(array('paytype'=>2,'paytime'=>date('Y-m-d G:i:s',time()))," `oid`='".$oid."'");
         }else{
             
             $row = mod_order::get_order($oid);
 			$orders = array('WIDout_trade_no'=>$row['oid'],'WIDsubject'=>$row['des'],'WIDtotal_fee'=>$row['money'],'type'=>'wxpay');
-			$gourl = 'http://kyw.5988vip.cn/SDK/epayapi.php?'.http_build_query($orders);
+			$gourl = 'http://ky.jiangyunhan.com/SDK/epayapi.php?'.http_build_query($orders);
             mod_order::up_order(array('paytype'=>1,'paytime'=>date('Y-m-d G:i:s',time()))," `oid`='".$oid."'");
 			
             
@@ -105,7 +105,7 @@ class ctl_pay {
 			$row = mod_order::get_order($oid);
     		$ac=mod_order::typetochannel($row['type']);
 			$orders = array('WIDout_trade_no'=>$row['oid'],'WIDsubject'=>$row['des'],'WIDtotal_fee'=>$row['money'],'ac'=>$ac);
-			$gourl = 'http://kyw.5988vip.cn/payment/paypal/paypal.php?'.http_build_query($orders);
+			$gourl = 'http://ky.jiangyunhan.com/payment/paypal/paypal.php?'.http_build_query($orders);
             mod_order::up_order(array('paytype'=>3,'paytime'=>date('Y-m-d G:i:s',time()))," `oid`='".$oid."'");
 
 		#echo $gourl;
@@ -124,7 +124,7 @@ class ctl_pay {
             if (1 == 1) {//查看商户号以及订单状态
                 mod_order::up_order(array('trade_status' => $trade_no,'status'=>1), 'oid=' . $out_trade_no);
                 $ac=mod_order::typetochannel($orders['type']);
-                header("Location:http://kyw.5988vip.cn/?ac=".$ac."&oid=".$out_trade_no."&token=".base64_encode(md5($out_trade_no)));
+                header("Location:http://ky.jiangyunhan.com/?ac=".$ac."&oid=".$out_trade_no."&token=".base64_encode(md5($out_trade_no)));
                 exit;
             }
         }
@@ -136,7 +136,7 @@ class ctl_pay {
         $orders = mod_order::get_order($out_trade_no);
 
 		$ac=mod_order::typetochannel($orders['type']);
-		header("Location:http://kyw.5988vip.cn/?ac=".$ac."&oid=".$out_trade_no."&token=".base64_encode(md5($out_trade_no)));
+		header("Location:http://ky.jiangyunhan.com/?ac=".$ac."&oid=".$out_trade_no."&token=".base64_encode(md5($out_trade_no)));
 		exit;
     }
 	public function notify_paypal() {
@@ -166,7 +166,7 @@ class ctl_pay {
 		if($row['status']=='1'){
 			$return['status'] = true;
 			$ac=mod_order::typetochannel($row['type']);
-			$return['url'] = "http://kyw.5988vip.cn/?ac=".$ac."&oid=".$oid."&token=".base64_encode(md5($oid));
+			$return['url'] = "http://ky.jiangyunhan.com/?ac=".$ac."&oid=".$oid."&token=".base64_encode(md5($oid));
 		}else{
 			$return['status'] = false;
 			$return['url'] = '';
@@ -181,11 +181,11 @@ class ctl_pay {
         //$orders['WIDtotal_amount'] = $row['money'];
       $httpdata = http_build_query($orders);
 	  
-	  //echo 'http://kyw.5988vip.cn/payment/Wxpay/example/h5api.php?'.$httpdata;die;
+	  //echo 'http://ky.jiangyunhan.com/payment/Wxpay/example/h5api.php?'.$httpdata;die;
 
-   	  header('Location: http://kyw.5988vip.cn/payment/Wxpay_gz/example/h5api.php?'.$httpdata);
+   	  header('Location: http://ky.jiangyunhan.com/payment/Wxpay_gz/example/h5api.php?'.$httpdata);
 	  die; 
-      send('http://kyw.5988vip.cn/payment/Wxpay_gz/example/h5api.php',$orders);
+      send('http://ky.jiangyunhan.com/payment/Wxpay_gz/example/h5api.php',$orders);
       die;
 
     }
@@ -227,7 +227,7 @@ class ctl_pay {
 		$row = mod_order::get_order($oid);
 		
 		$ac=mod_order::typetochannel($row['type']);
-		$row['url'] = "http://kyw.5988vip.cn/?ac=".$ac."&oid=".$oid."&token=".base64_encode(md5($oid));
+		$row['url'] = "http://ky.jiangyunhan.com/?ac=".$ac."&oid=".$oid."&token=".base64_encode(md5($oid));
 		$row['oid'] = $oid;
         $sub_openid = $openid;
 		
@@ -236,7 +236,7 @@ class ctl_pay {
 		$data['des'] = $row['des'];
 		$data['money'] = $row['money'];
 
-        $return = send('http://kyw.5988vip.cn/payment/Wxpay_gz/example/jsapi.php',$data);
+        $return = send('http://ky.jiangyunhan.com/payment/Wxpay_gz/example/jsapi.php',$data);
 		
 		$return = json_decode($return,true);
 		
