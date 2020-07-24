@@ -32,7 +32,7 @@
 .hotcs_item .r_wrap {margin-left:10px;flex:1;}
 .hotcs_item .r_wrap .r_deriction {font-size:15px;color:#333333;margin-bottom:5px;}
 .hotcs_item .r_wrap .r_foot {display:flex;justify-content:space-between;align-items:center;}
-.hotcs_item .r_wrap .r_foot p:nth-child(1) {padding-left:17px;background:url(ffsm/tu/icon_dianzan.png) 0% 50% no-repeat;background-size:13px;font-size:13px;line-height:1;color:#A78A5F;}
+.hotcs_item .r_wrap .r_foot p:nth-child(1) {padding-left:17px;background:url(../../../ffsm/tu/icon_dianzan.png) 0% 50% no-repeat;background-size:13px;font-size:13px;line-height:1;color:#A78A5F;}
 .hotcs_item .r_wrap .r_foot p:nth-child(2) {padding:0 5px;border:0.02rem solid #FFBE4B;border-radius:3px;font-size:12px;color:#FFCC71;}
 .rmcsbox{padding-top: 10px; background-color: #fff; margin-top: 5px;}
 .xttbox_title{text-align: center; line-height: 35px; font-size: 35px; color: #333; font-weight: bold; position: relative; margin-bottom: 10px; height: 35px;}
