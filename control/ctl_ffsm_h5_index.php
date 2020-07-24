@@ -2673,16 +2673,24 @@ public function splitName($fullname){
          $state=0;
        }
         $data = array();
+        $orders= mod_order::get_history();
+
+
+
+
+
        $type=array(1=>'事业财运', 2=>'八字合婚', 3=>'姓名分析', 4=>'姓名配对', 5=>'紫薇命盘', 6=>'八字综合', 7=>'姻缘测算', 8=>'八字精批', 9=>'2020爱情运', 10=>'PC端测算', 25=>'在线预约', 12=>'鼠年运程', 21=>'许愿点灯', 16=>'月老姻缘', 18=>'号码测算',23=>'在线起名',24=>'公司起名',20=>'预约起名');
         foreach($orders as $k=>$v){
             $orders_arr = mod_order::get_order($v);
-
+            if($orders_arr['status'] != $state){
+                continue;
+            }
             if(isset($orders_arr['oid'])){
                 $data[$k]['data']=json_decode(urldecode($orders_arr['data']),true);
                 $data[$k]['createtime']=date("Y-m-d H:i:s",$orders_arr['createtime']);
                 $data[$k]['oid']=$orders_arr['oid'];
                 $data[$k]['type']=$type[$orders_arr['type']];
-                $data[$k]['status']=$type[$orders_arr['type']];
+                $data[$k]['status']=$type[$orders_arr['status']];
                 $ac=mod_order::typetochannel($orders_arr['status']);
                 $data[$k]['url'] = "/?ac=".$ac."&oid=".$orders_arr['oid']."&token=".base64_encode(md5($orders_arr['oid']));
             }
