@@ -2682,7 +2682,8 @@ public function splitName($fullname){
                 $data[$k]['createtime']=date("Y-m-d H:i:s",$orders_arr['createtime']);
                 $data[$k]['oid']=$orders_arr['oid'];
                 $data[$k]['type']=$type[$orders_arr['type']];
-                $ac=mod_order::typetochannel($orders_arr['type']);
+                $data[$k]['status']=$type[$orders_arr['type']];
+                $ac=mod_order::typetochannel($orders_arr['status']);
                 $data[$k]['url'] = "/?ac=".$ac."&oid=".$orders_arr['oid']."&token=".base64_encode(md5($orders_arr['oid']));
             }
         }
