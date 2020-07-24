@@ -20,7 +20,7 @@
 	<p class="ac_title">
 		关注公众号寻找解答
 	</p>
-<center><img src="/weixin.png" width="50%" target="_blank"></center>
+<center><img src="ffsm/tu/weixin.jpg" width="50%" target="_blank"></center>
 	<script>
 		(function(){
     var num=['','',];
